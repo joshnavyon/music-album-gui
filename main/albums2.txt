@@ -1,0 +1,91 @@
+6
+images/mac_demarco.png
+Another One
+Mac DeMarco
+2015
+2
+5
+The Way You'd Love Her
+sounds/mac_demarco/the_way_youd_love_her.mp3
+No Other Heart
+sounds/mac_demarco/no_other_heart.mp3
+A Heart Like Hers
+sounds/mac_demarco/a_heart_like_hers.mp3
+Just To Put Me Down
+sounds/mac_demarco/just_to_put_me_down.mp3
+I've been waiting for her
+sounds/mac_demarco/ive_been_waiting_for_her.mp3
+images/jvke.png
+Golden Hour
+JVKE
+2022
+2
+5
+Golden Hour
+sounds/jvke/golden_hour.mp3
+I'm Not Okay
+sounds/jvke/im_not_okay.mp3
+Ghost Town
+sounds/jvke/ghost_town.mp3
+This Is What FIL Feels Like
+sounds/jvke/this_is_what_falling_in_love_feels_like.mp3
+This Is What HB Feels Like
+sounds/jvke/this_is_what_heartbreak_feels_like.mp3
+images/lana_del_rey.png
+Ultraviolence
+Lana Del Rey
+2014
+2
+5
+Brooklyn Baby
+sounds/lana_del_rey/brooklyn_baby.mp3
+Ultraviolence
+sounds/lana_del_rey/ultraviolence.mp3
+Money Power Glory
+sounds/lana_del_rey/money_power_glory.mp3
+Cruel World
+sounds/lana_del_rey/cruel_world.mp3
+Shades of Cool
+sounds/lana_del_rey/shades_of_cool.mp3
+images/conan_gray.png
+Sunset Season
+Conan Gray
+2018
+2
+4
+Crush Culture
+sounds/conan_gray/crush_culture.mp3
+Generation Why
+sounds/conan_gray/generation_why.mp3
+Idle Town
+sounds/conan_gray/idle_town.mp3
+Lookalike
+sounds/conan_gray/lookalike.mp3
+images/sam_smith.png
+In The Lonely Hour
+Sam Smith
+2014
+2
+4
+Like I Can
+sounds/sam_smith/like_i_can.mp3
+I'm Not The Only One
+sounds/sam_smith/im_not_the_only_one.mp3
+Good Thing
+sounds/sam_smith/good_thing.mp3
+Money On My Mind
+sounds/sam_smith/money_on_my_mind.mp3
+images/boy_pablo.png
+Soy Pablo
+Boy Pablo
+2018
+2
+4
+Sick Feeling
+sounds/boy_pablo/sick_feeling.mp3
+Feeling Lonely
+sounds/boy_pablo/feeling_lonely.mp3
+Limitado
+sounds/boy_pablo/limitado.mp3
+Losing You
+sounds/boy_pablo/losing_you.mp3

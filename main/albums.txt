@@ -1,0 +1,79 @@
+5
+images/AM_Albums.jpeg
+Artic Monkeys
+AM
+2013
+2
+6
+Do I Wanna Know?
+sounds/artic-monkeys/Arctic_Monkeys-Do_I_Wanna_Know.mp3
+R U Mine?
+sounds/artic-monkeys/Arctic_Monkeys-R_U_Mine.mp3
+No. 1 Party Anthem
+sounds/artic-monkeys/Arctic_Monkeys-No1_Party_Anthem.mp3
+Why'd You Only Call Me When You're High?
+sounds/artic-monkeys/Arctic_Monkeys-Whyd_You_Only_Call_Me_When_Youre_High.mp3
+Snap Out of It
+sounds/artic-monkeys/test01.wav
+I Wanna Be Yours
+sounds/artic-monkeys/test02.wav
+images/Live-at-Radio-City-Hall_Albums.jpg
+Rex County Orange
+Live at Radio City Music Hall
+2020
+2
+4
+Pluto Projector
+sounds/rex-county-orange/Rex_County_Orange-Pluto_Projector.flac
+Never Enough
+sounds/rex-county-orange/Rex_Orange_County-Never_Enough.flac
+Corduroy Dreams
+sounds/rex-county-orange/Rex_County_Orange-Courduroy_Dreams.flac
+Best Friend
+sounds/rex-county-orange/Rex_County_Orange-Best_Friend.flac
+images/Happier-Than-Ever_Albums.jpg
+Billie Eilish
+Happier Than Ever
+2021
+2
+5
+Getting Older
+sounds/billie-eilish/Billie_Eilish-Getting_Older.flac
+Billie Bossa Nova
+sounds/billie-eilish/Billie_Eilish-Billie_Bossa_Nova.flac
+Lost Cause
+sounds/billie-eilish/Billie_Eilish-Lost_Cause.flac
+Happier Than Ever
+sounds/billie-eilish/Billie_Eilish-Happier_Than_Ever.flac
+Halley's Comet
+sounds/billie-eilish/Billie_Eilish-Halleys_Comet.flac
+images/Chase-Atlantic_Albums.jpg
+Chase Atlantic
+Chase Atlantic
+2017
+2
+3
+Into It
+sounds/chase-atlantic/Chase_Atlantic-Into_It.flac
+Consume
+sounds/chase-atlantic/Chase_Atlantic-Consume.flac
+Swim
+sounds/chase-atlantic/Chase_Atlantic-Swim.flac
+images/Playlist_Albums.png
+Author
+Playlist 1
+xxxx
+nil
+6
+Snap Out of It
+sounds/artic-monkeys/test01.wav
+Corduroy Dreams
+sounds/rex-county-orange/Rex_County_Orange-Courduroy_Dreams.flac
+Pluto Projector
+sounds/rex-county-orange/Rex_County_Orange-Pluto_Projector.flac
+Never Enough
+sounds/rex-county-orange/Rex_Orange_County-Never_Enough.flac
+Happier Than Ever
+sounds/billie-eilish/Billie_Eilish-Happier_Than_Ever.flac
+Why'd You Only Call Me When You're High?
+sounds/artic-monkeys/Arctic_Monkeys-Whyd_You_Only_Call_Me_When_Youre_High.mp3
